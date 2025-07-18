@@ -1,5 +1,8 @@
 # Dominos-power-bi-dashboard-with-mySQL
 Domino's Pizza Sales Analysis – Project Report
+<img width="1377" height="770" alt="Dominos Dashboard" src="https://github.com/user-attachments/assets/3bf7fc3a-a34e-4133-9acc-1c53b022338b" />
+
+
 
 # 📌 Project Overview
 This project focuses on analyzing the sales performance of Domino’s Pizza using SQL for data processing and Power BI for visualization. The goal is to extract meaningful insights from sales data, such as total revenue, order trends, category-wise performance, and size-wise sales distribution.
